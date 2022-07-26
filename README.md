@@ -1,5 +1,5 @@
 # Pixabay Api
-Pixabay app which gets images using AJAX GET
+Pixabay app which gets images using AJAX GET.
 
 - Important: you will need to put your own API key into line 1 below in script.js:
 ```
