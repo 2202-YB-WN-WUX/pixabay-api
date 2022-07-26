@@ -1,5 +1,5 @@
 // declare our settings
-const apiKey = "23357829-9b7269d284a8f7fd567a2b936";
+const apiKey = "your-api-key";
 const endpointURL = "https://pixabay.com/api/?key=";
 // const parameters = "&q=cute+dog";
 
