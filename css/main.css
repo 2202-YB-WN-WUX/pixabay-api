@@ -7,6 +7,10 @@ body {
   padding: 30px;
 }
 
+#toolbar {
+  padding: 20px 0;
+}
+
 #result {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
